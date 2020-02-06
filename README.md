@@ -1,2 +1,2 @@
 # github-udemy
-A Sample demo to learn github udemy course.
+A Sample demo to follow github udemy course.
